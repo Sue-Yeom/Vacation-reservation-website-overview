@@ -50,7 +50,7 @@ demo
 
 <h3> 1. Excursion API Endpoint Test (GET /api/excursions)  </h3>
 📄 Screenshot:  
-<img src="images/api:excursion.png" width="400">
+<img src="images/api:excursion..png" width="400">
 
 This captures the successful retrieval of excursion data via Postman. It verifies that the backend exposes excursion-related API and returns proper HAL+JSON with excursion_title, excursion_price, and related links.
 
